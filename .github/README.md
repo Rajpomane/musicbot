@@ -43,6 +43,7 @@
  - `/resume` - resume song play 
  - `/skip` - play next song 
  - `/end` - stop music play 
+ - '/start'- start bot
  </details> 
 
 <details>
