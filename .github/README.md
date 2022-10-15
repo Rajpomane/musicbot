@@ -35,6 +35,7 @@
  - `/play <song name>` - play song you requested 
  - `/song <song name>` - download songs you want quickly 
  - `/ping` - Bot Online or Offine 
+ - `/tm`- telegraph photo link
 
   #### Admins Only 👷‍♂️ 
 
